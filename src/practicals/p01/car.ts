@@ -1,1 +1,4 @@
-export class Car {}
+export class Car {
+    public brand:string = '';
+    public model:string = '';
+}
